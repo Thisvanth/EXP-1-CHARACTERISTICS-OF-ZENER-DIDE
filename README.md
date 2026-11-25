@@ -16,6 +16,9 @@ Zener diode – The diodes, which are designed to operate in the breakdown regio
 
 Circuit diagram (forward and reverse bias)
 
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/9bd4660f-c955-4a9e-83b0-f2b291ea03d7" />
+
+
 Procedure / simulation reference
 
 Procedure
@@ -63,3 +66,6 @@ Reverse Resistance:
 RR = [(5.12 − 5.11) / (1.87 − 1.37)] × 10³ = 20 Ω
 Result
 Thus the Zener diode characteristics were studied.
+
+<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/70ebf23b-7cff-4442-90f7-b5dd6b70c56b" />
+
